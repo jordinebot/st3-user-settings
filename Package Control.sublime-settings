@@ -1,0 +1,26 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AlignTab",
+		"AngularJS",
+		"ApacheConf.tmLanguage",
+		"Better CoffeeScript",
+		"Color Highlighter",
+		"Emmet",
+		"ES6-Toolkit",
+		"FTPSync",
+		"HTML5",
+		"LESS",
+		"Monokai JSON+",
+		"Package Control",
+		"phpfmt",
+		"Sass",
+		"TodoReview",
+		"TrailingSpaces",
+		"TypeScript"
+	]
+}

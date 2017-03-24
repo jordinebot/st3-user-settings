@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[<?= _('$SELECTION$1') ?>]]></content>
+    <!-- Optional: Tab trigger to activate the snippet -->
+    <tabTrigger>gettext</tabTrigger>
+    <!-- Optional: Scope the tab trigger will be active in -->
+    <scope>source.php</scope>
+    <!-- Optional: Description to show in the menu -->
+    <description>Wrap selection with PHP gettext funcion</description>
+</snippet>

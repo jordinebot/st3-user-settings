@@ -1,0 +1,7 @@
+{
+    "file_exts": [".css", ".sass", ".scss", ".less", ".styl", ".html", ".coffee", ".js", ".sublime-settings", ".tmTheme", ".stTheme", ".erb", ".haml", ".back", ".py", ".md"],
+    "style": "filled",
+    "icons": true,
+    "ha_style": "filled",
+    "ha_icons": true
+}

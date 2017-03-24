@@ -1,0 +1,11 @@
+[
+	{ 
+		"keys": ["ctrl+shift+g"], 
+  		"command": "insert_snippet", 
+  		"args": { "name": "Packages/User/gettext.sublime-snippet" } 
+  	},
+    { 
+        "keys": ["ctrl+shift+a"], 
+        "command": "align_tab"
+    }
+]

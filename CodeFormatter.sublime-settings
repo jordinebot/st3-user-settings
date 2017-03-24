@@ -1,0 +1,16 @@
+{
+
+    "codeformatter_php_options":
+    {
+        "syntaxes": "php", // Syntax names which must process PHP formatter
+        "php_path": "/usr/local/php5-7.0.11-20160923-203451/bin/php",
+        "format_on_save": false,
+        "passes": [
+        	"AlignDoubleArrow",
+            "AlignDoubleSlashComments",
+            "AlignGroupDoubleArrow",
+            "SpaceBetweenMethods",
+            "AlignEquals"
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+{
+	"indent_with_space": 4,
+	"passes":
+	[
+		"AlignDoubleArrow",
+		"AlignDoubleSlashComments",
+		"AlignGroupDoubleArrow",
+		"SpaceBetweenMethods",
+		"AlignEquals"
+	],
+	"php_bin": "/usr/local/php5-7.0.11-20160923-203451/bin/php",
+	"version": 1
+}
