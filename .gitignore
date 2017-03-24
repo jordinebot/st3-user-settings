@@ -3,6 +3,7 @@ Package Control.merged-ca-bundle
 Package Control.system-ca-bundle
 Package Control.user-ca-bundle
 Package Control.last-run
+oscrypto-ca-bundle.crt
 __pycache__
 *.sublime-workspace
 .SublimeREPLHistory
